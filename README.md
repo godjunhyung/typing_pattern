@@ -1,4 +1,4 @@
-# typing_pattern
+# Research on Visualization/Analysis Techniques for Character Input Patterns Using Computer Vision
 
 ## 컴퓨터 비전을 활용한 문자 입력패턴 시각화/분석기술 연구
 ### 한국정보보호학회
